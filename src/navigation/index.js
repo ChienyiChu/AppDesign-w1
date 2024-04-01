@@ -5,14 +5,9 @@ import { Box,Image, Text, Pressable } from '@gluestack-ui/themed';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import {
-  createDrawerNavigator,
-  DrawerContentScrollView,
-  DrawerItemList,
-} from '@react-navigation/drawer';
+import {createDrawerNavigator,DrawerContentScrollView,DrawerItemList} from '@react-navigation/drawer';
 
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-
 
 import HomeScreen from '../screens/HomeScreen';
 import DetailScreen from '../screens/DetailScreen';
@@ -42,7 +37,7 @@ const CustomDrawerContent = (props) => {
         marginLeft={16}
         marginTop={40}
         marginBottom={16}
-        source={require("../img/img_avatar.png")}
+        source={require("../image/img_avatar.png")}
         alt='AccountImage'
       />
       <Text fontWeight='500' fontSize={24} marginLeft={16} marginBottom={17}>
@@ -86,7 +81,6 @@ const MyDrawer = () => {
         name="AccountStack"
         component={AccountScreen}
         options={{
-          //headerShown: false,
           title: "Account",
           drawerIcon: ({ color }) => (
             <MaterialCommunityIcons name="account-circle" color={ color } size={26} />
@@ -97,7 +91,6 @@ const MyDrawer = () => {
         name="SettingsStack"
         component={SettingtScreen}
         options={{
-          //headerShown: false,
           title: "Settings",
           drawerIcon: ({ color }) => (
             <MaterialCommunityIcons name="cog" color={ color } size={26} />

@@ -6,9 +6,9 @@ const StarList = ({star}) => {
 
   for(let i=1;i<=5;i++){
     if (star>=i){
-      starList.push(<Image source={require('../img/icon_star_filled.png')} style={styles.stars} key={i}/>)
+      starList.push(<Image source={require('../image/icon_star_filled.png')} style={styles.stars} key={i}/>)
     } else {
-      starList.push(<Image source={require('../img/icon_star_empty.png')} style={styles.stars} key={i}/>)
+      starList.push(<Image source={require('../image/icon_star_empty.png')} style={styles.stars} key={i}/>)
     }
   }
 

@@ -1,6 +1,6 @@
 import React from "react";
 import { View,ScrollView } from "react-native";
-import BookList from "../component/BooksList";
+import BookList from "../components/BooksList";
 
 const HomeScreen = ({ navigation }) => {
   return (
