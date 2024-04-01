@@ -8,7 +8,7 @@
             "author": "Dana Thomas",
             "starstate":false,
             "star":0,
-            "image": "https://drive.google.com/file/d/1CN0GuoiDsKVNxgFVSeOIqcX4bEZFAchY/view?raw=true",
+            "image": "https://github.com/ChienyiChu/bookapp/tree/master/src/image/img_book_fashinopolis.png?raw=true",
             "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
             "price":"46.99"
          },
@@ -17,7 +17,7 @@
             "author": "Patrick Mauriès",
             "starstate":false,
             "star":0,
-            "image": "https://drive.google.com/file/d/16OVSGK8Nc8oG8U6G_QJ0atMnyVlR1LP5/view?usp=drive_link?raw=true",
+            "image": "https://github.com/ChienyiChu/bookapp/tree/master/src/image/img_book_chanel.png?raw=true",
             "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
             "price":"46.99"
          },
@@ -26,7 +26,7 @@
             "author": "June & Lucy",
             "starstate":false,
             "star":0,
-            "image": "https://drive.google.com/file/d/1h0rbJmqkUgvKSXVza5z2VwxtlsH7DpSG/view?raw=true",
+            "image": "https://github.com/ChienyiChu/bookapp/tree/master/src/image/img_book_calligraphy.png?raw=true",
             "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
             "price":"46.99"
          }
@@ -41,7 +41,7 @@
             "author": "Suzy Menkes",
             "starstate":true,
             "star":4,
-            "image": "https://drive.google.com/file/d/1edGMV0qZ6krxvWRP13ui-zJiIGl4HMl_/view?raw=true",
+            "image": "https://github.com/ChienyiChu/bookapp/tree/master/src/image/img_book_ysl.png?raw=true",
             "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
             "price":"46.99"
          },
@@ -50,7 +50,7 @@
             "author": "Rudolf Koch",
             "starstate":true,
             "star":3,
-            "image": "https://drive.google.com/file/d/1CMZ9AfsBaw63B7wfqL0rS-R4g_NvtiF-/view?raw=true",
+            "image": "https://github.com/ChienyiChu/bookapp/tree/master/src/image/img_book_tbos.png?raw=true",
             "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
             "price":"46.99"
          },
@@ -59,7 +59,7 @@
             "author": "Tansy E. Hoskins",
             "starstate":true,
             "star":3,
-            "image": "https://drive.google.com/file/d/15TeFBIvzN2kKdXnvmDMJNWymD_ljNI9-/view?raw=true",
+            "image": "https://github.com/ChienyiChu/bookapp/tree/master/src/image/img_book_stitchedup.png?raw=true",
             "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
             "price":"46.99"
          }
